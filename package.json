@@ -1,0 +1,16 @@
+{
+  "title": "fargotrak",
+  "name": "fargotrak",
+  "version": "0.0.1",
+  "description": "Posting points to kartograf.",
+  "main": "index.js",
+  "author": "Fredrik Rubensson",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "GPL",
+  "keywords": [
+    "jetpack"
+  ]
+}
